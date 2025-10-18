@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CircleColorChange",
+      "request": "launch",
+      "mainClass": "CircleColorChange",
+      "projectName": "JavaFXApp_feb42e3"
+    },
+    {
+      "type": "java",
+      "name": "DisplayImages",
+      "request": "launch",
+      "mainClass": "DisplayImages",
+      "projectName": "JavaFXApp_feb42e3"
+    },
+    {
+      "type": "java",
+      "name": "MultipleStageDemo",
+      "request": "launch",
+      "mainClass": "MultipleStageDemo",
+      "projectName": "MyJavaFXApp_56894b58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path \"C:\\Users\\madis\\OneDrive\\Desktop\\JavaFX SDK\\openjfx-25_windows-x64_bin-sdk\\javafx-sdk-25\\lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}

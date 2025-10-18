@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "C:/Users/jadams/Desktop/javafx-sdk-25/lib/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical"
+}
